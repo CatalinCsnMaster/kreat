@@ -1,6 +1,6 @@
 # back
 
-This project was generated with [`@vendure/create`](https://github.com/vendure-ecommerce/vendure/tree/master/packages/create).
+
 
 ## Directory structure
 
@@ -15,14 +15,12 @@ yarn start
 npm run start
 ```
 
-will start the Vendure server and [worker](https://www.vendure.io/docs/developer-guide/vendure-worker/) processes from
-the `src` directory.
 
 
 
 ## Migrations
 
-[Migrations](https://www.vendure.io/docs/developer-guide/migrations/) allow safe updates to the database schema.
+[Migrations] allow safe updates to the database schema.
 
 The following npm scripts can be used to generate migrations:
 
